@@ -1,6 +1,7 @@
 hey I am learning Git...
 Dnyanesh
 
-change in my local DB
+
+change in mySQL DB
 
 closing the connection
