@@ -1,6 +1,6 @@
 hey I am learning Git...
 Dnyanesh
 
-change in feature2 DB
+change in my local DB
 
 closing the connection
