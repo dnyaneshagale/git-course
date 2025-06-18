@@ -2,3 +2,5 @@ hey I am learning Git...
 Dnyanesh
 
 change in feature2 DB
+
+closing the connection
